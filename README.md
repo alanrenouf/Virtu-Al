@@ -1,2 +1,2 @@
-# PaloAlto
-Palo Alto Site
+# Virtu-Al Company
+Company Wide Git repo for standard changes to all sites
