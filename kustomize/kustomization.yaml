@@ -3,4 +3,4 @@ kind: Kustomization
 resources:
   - ../base/hosts/console-message.yaml
   - ../base/hosts/ntp.yaml
-  - ../base/default-apps/portainer.yaml
+  - ../base/default-apps/weaveworks-dashboard.yaml
