@@ -1,6 +1,6 @@
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 resources:
-  - ../base/ESX/console-message.yaml
-  - ../base/ESX/ntp.yaml
+  - ../base/hosts/console-message.yaml
+  - ../base/hosts/ntp.yaml
   - ../base/default-apps/portainer.yaml
