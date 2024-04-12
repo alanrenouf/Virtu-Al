@@ -4,3 +4,4 @@ resources:
   - ../base/hosts/console-message.yaml
   - ../base/hosts/ntp.yaml
   - ../base/default-apps/weaveworks-dashboard.yaml
+  - ../base/default-apps/hello-ecs.yaml
