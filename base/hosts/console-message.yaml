@@ -11,7 +11,7 @@ spec:
       "esx": {
           "system": {
             "welcome_message": {
-                "message": "{align:center}{color:white} \n\n\n\n\tVMware Edge Cloud Orchestrator - Edge Host{/color}{/align}\n\n\n\n\n\n\n\n\n{align:center}{color:red} \tNo Unauthorized Access{/color}{/align}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{align:left}{color:yellow} <F2> Customize System/View Logs{/color}{/align}{align:right}{color:yellow} <F12> Shut Down/Restart{/color}{/align}"
+                "message": "{align:center}{color:white} \n\n\n\nVMware Edge Cloud Orchestrator - Edge Host{/color}{/align}\n\n\n\n\n\n\n\n\n{align:center}{color:red}No Unauthorized Access{/color}{/align}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{align:center}{color:yellow} For access contact Alan Renouf on 555 555-5555{/color}{/align}"
             }
           }
       }
