@@ -5,3 +5,4 @@ resources:
   - ../base/hosts/ntp.yaml
   - ../base/default-apps/weaveworks-dashboard.yaml
   - ../base/default-apps/hello-ecs.yaml
+  - ../base/notifications/googlechat.yaml
