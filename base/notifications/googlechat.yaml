@@ -22,12 +22,12 @@ spec:
 apiVersion: notification.toolkit.fluxcd.io/v1beta3
 kind: Alert
 metadata:
-  name: on-call-webapp
+  name: my-gchat-notification
   namespace: flux-system
 spec:
   summary: "Sync Messages"
   eventMetadata:
-    env: "Ben-Lomond"
+    env: "TBC"
   providerRef:
     name: googlechat-bot
   eventSeverity: error
